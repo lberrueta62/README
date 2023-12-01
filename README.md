@@ -40,9 +40,9 @@ All.integrated.minus9.minus16.minus17. M2b _stretch.markers. M2b _non-stretch.ma
 For the Lipidomic data (LC-MS/MS: Liquid chromatography–mass spectrometry)
 Berrueta et al Lipidomics data sharing 111723.  Data set was organized as follow: There are 5 columns describing the data: Column A describe the total  list of lipid mediators analyzed. Column B describe the average of each lipid mediator in No Stretch samples at 48h. Column C describe the average of each lipid mediator in  Stretch samples at 48h. Column D describe the average of each lipid mediator in No Stretch samples at 96h. Column E describe the average of each lipid mediator in  Stretch samples at 96h.
 
-#**For the Lipidomic data (LC-MS/MS: Liquid chromatography–mass spectrometry)**
+For the Lipidomic data (LC-MS/MS: Liquid chromatography–mass spectrometry)
+Berrueta_et_al_Table_1_Lipidomics_111723.  Data set was organized as follow: There are 5 columns describing the data: Column A describe the total  list of lipid mediators analyzed. Column B describe the average of each lipid mediator in No Stretch samples at 48h. Column C describe the average of each lipid mediator in  Stretch samples at 48h. Column D describe the average of each lipid mediator in No Stretch samples at 96h. Column E describe the average of each lipid mediator in  Stretch samples at 96h.
 
-#Berrueta_et_al_Table_1_Lipidomics_111723.  Data set was organized as follow: There are 5 columns describing the data: Column A describe the total  list of lipid mediators analyzed. Column B describe the average of each lipid mediator in No Stretch samples at 48h. Column C describe the average of each lipid mediator in  Stretch samples at 48h. Column D describe the average of each lipid mediator in No Stretch samples at 96h. Column E describe the average of each lipid mediator in  Stretch samples at 96h.
 
 
 
